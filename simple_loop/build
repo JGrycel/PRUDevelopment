@@ -1,0 +1,3 @@
+#!/bin/bash
+pasm -b loop.p
+gcc host.c -o host  -lpthread -lprussdrv

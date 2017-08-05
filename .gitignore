@@ -1,0 +1,4 @@
+#Only want to include source in repo
+*.bin
+*.o
+
